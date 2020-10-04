@@ -1,4 +1,4 @@
-# facbook-autoreply-bot
+# Facbook-AutoReply-Bot
 
 Facebook AutoReply Bot
 
